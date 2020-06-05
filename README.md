@@ -18,7 +18,7 @@
 
 
 
-## Please have a look on my Portfolio 
-blogomezl.netlify.app
+
+pablogomezl.netlify.app
 
 Copyright 2020 - Pablo Patrick
